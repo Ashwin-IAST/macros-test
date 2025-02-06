@@ -1,0 +1,8 @@
+// Define macros
+#define DEBUG_MODE 1
+#define VERSION 2.5
+#define MAX_BUFFER_SIZE 2048
+
+// Undefine macros
+#undef OLD_FEATURE
+#undef UNUSED_MACRO

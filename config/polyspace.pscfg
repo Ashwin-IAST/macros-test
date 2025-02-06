@@ -1,0 +1,6 @@
+-sources src/*.c
+-I include
+-lang c
+-compiler gnu10.x
+-misra3 mandatory-required-rules
+-results-dir result
